@@ -1,2 +1,2 @@
-# amateishchuk.github.io
+# http://amateishchuk.github.io
 JS Home work
